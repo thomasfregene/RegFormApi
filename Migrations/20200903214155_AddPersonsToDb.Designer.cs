@@ -9,7 +9,7 @@ using RegFormApi.Models;
 namespace RegFormApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200903190054_AddPersonsToDb")]
+    [Migration("20200903214155_AddPersonsToDb")]
     partial class AddPersonsToDb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

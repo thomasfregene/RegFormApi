@@ -54,8 +54,11 @@ C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\RegFormApi.runtimeconfig.json
 C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\RegFormApi.runtimeconfig.dev.json
 C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\RegFormApi.dll
 C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\RegFormApi.pdb
-C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.csproj.CoreCompileInputs.cache
-C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.dll
 C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.pdb
 C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.genruntimeconfig.cache
+C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Projects\RegFormApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.csproj.CoreCompileInputs.cache
+C:\Projects\RegFormApi\obj\Debug\netcoreapp3.1\RegFormApi.MvcApplicationPartsAssemblyInfo.cache
