@@ -25,8 +25,9 @@ namespace RegFormApi.Controllers.Api
             return Ok(_dbContext.Persons.ToList());
         }
 
+
         [HttpPost]
-        public IActionResult CreatePerson(Person person)
+        public IActionResult CreatePerson([FromBody]Person person)
         {
             _dbContext.Add(person);
             _dbContext.SaveChanges();
